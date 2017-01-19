@@ -1,0 +1,300 @@
+Planter, entretenir des arbres, des fleurs ou cultiver le sol;R;minutieux;fleuristes;R1
+Technicien/Technicienne du meuble et du bois ouvré (ébéniste);R;minutieux;fleuristes;R26
+Effectuer des travaux de peinture;R;minutieux;R12
+Travailler avec des outils tels que tournevis, ciseaux, pince, etc;R;minutieux;R7
+Travailler avec des animaux et en prendre soin;R;pratique;R2
+J'aime les choses matérielles, concrètes;R;pratique;R43
+Je suis porté/e à ménager et à prendre soin de mes biens;R;pratique;R47
+Mon habilité à conduire un gros véhicule (camion, autobus);R;industriels;conducteur;R36
+Ma capacité à soulever des poids lourds;R;industriels;conducteur;R38
+Réparateur/Réparatrice de télévision;R;industriels;publicité;R18
+Effectuer des réparations électriques ou électroniques;R;industriels;publicité;R3
+Réparer des automobiles;R;industriels;mécanicien;mécanicien;R4
+Mécanicien/Mécanicienne d'auto;R;industriels;mécanicien;mécanicien;R19
+Travailler avec de la machinerie;R;industriels;mécanicien;R6
+Conducteur/Conductrice d'autobus;R;industriels;électricien;conducteur;R23
+Couturier/Couturière en usine;R;industriels;électricien;conducteur;R24
+Technicien/Technicienne dentaire;R;industriels;électricien;conducteur;R28
+Entretenir ou réparer de la plomberie ou des systèmes de ventilation;R;industriels;électricien;plombier;R5
+Plombier/Plombière;R;industriels;électricien;plombier;R20
+Faire des déménagements;R;industriels;électricien;R14
+Eleveur/Eleveuse de bétails;R;industriels;électricien;R17
+Technicien/Technicienne en mécanique du bâtiment;R;industriels;électricien;R22
+Travailler à l'extérieur (exposer à la pluie, au soleil, au froid);R;industriels;R15
+Technicien/Technicienne en aménagement de la faune;R;industriels;R16
+Travailleur/Travailleuse de la construction (menuiserie);R;industriels;R25
+Ma capacité à m'occuper d'élevage d'animaux;R;industriels;R31
+Conduire un camion ou un tracteur;R;industriels;R8
+Préparer des repas, des banquets;R;cuisinier;R11
+Cuisinier/Cuisinière;R;cuisinier;R27
+Horloger/Horlogère;R;cuisinier;R29
+Faire de la couture;R;cuisinier;R9
+Dans mon travail ou autres, je me montre persistant/e;R;sensible;enfance;R44
+Je suis stable dans mes opinions, ma façon de vivre, mes amitiés;R;sensible;enfance;R48
+Avec mon entourage, je suis franc/he et sincère;R;sensible;enfance;R50
+Je démontre un esprit d'équipe pratique et je préfère agir plutôt que placoter;R;sensible;R45
+Je me présente toujours au naturel, tel que je suis;R;sensible;R49
+Fabriquer des objets avec du bois;R;sensible;R10
+Suivre un cours de dessin mécanique;R;juridique;technicien;R13
+Technicien/Technicienne en entretien d'aéronefs;R;juridique;technicien;R21
+Généralement, j'évite de me faire remarquer;R;juridique;lecteur;R42
+Je suis d'un naturel réservé, pour savoir mon opinion, on doit me le demander;R;juridique;lecteur;R46
+Ingénieur/Ingénieure civil;R;juridique;R30
+Je suis conformiste, je me plie facilement aux règlements du milieu où je vis;R;juridique;R41
+Ma capacité à utiliser des outils, des objets, des machines avec précision;R;dynamique;technologie;R32
+Ma capacité à installer et à manipuler divers outils, machines ou appareils;R;dynamique;technologie;R35
+Mon aptitude à lire des plans;R;dynamique;santé;R37
+La rapidité de mes réflexes;R;dynamique;santé;R40
+Ma capacité à comprendre le fonctionnement des éléments de base de tout ouvrage mécanique, électrique (turbine, moteur, pompe...);R;dynamique;R33
+Ma capacité à faire des réparations;R;dynamique;R34
+Mon habilité dans les mouvements demandant à voir et à manipuler en même temps;R;dynamique;R39
+Lire des revues scientifiques ou spécialisées;I;scientifiques;scientifiques;I1
+Suivre des cours de science;I;scientifiques;scientifiques;I2
+Faire des recherches scientifiques pour satisfaire ma curiosité;I;scientifiques;scientifiques;I4
+Chercheur/Chercheuse scientifique;I;scientifiques;I16
+Astronome (étudie le mouvement des astres dans le ciel);I;scientifiques;I23
+Résoudre des problèmes mathématiques;I;scientifiques;I3
+Créer une nouvelle source d'énergie;I;scientifiques;I9
+Etablir un diagnostic de maladie chez des patients;I;physique;médicale;I13
+Planifier des soins ou des traitements à donner à des patients;I;physique;médicale;I14
+Ingénieur/Ingénieure en chimie, physique;I;physique;physique;I20
+Technicien/Technicienne en chimie analytique (analyse de nouveaux produits chimiques);I;physique;physique;I21
+Mon habilité à faire des travaux de laboratoire;I;physique;laboratoire;I36
+Mes capacités en sciences (biologie, physique, chimie);I;physique;laboratoire;I37
+Biologiste;I;physique;I19
+Faire des expériences sur le comportement des animaux;I;physique;I5
+Effectuer des analyses en laboratoire;I;physique;I8
+Technicien/Technicienne en laboratoire médical;I;laboratoire;technicien;I27
+Technicien/Technicienne en radiologie (rayon X);I;laboratoire;technicien;I28
+Botaniste;I;laboratoire;botaniste;I18
+Expérimenter de nouvelles cultures végétales;I;laboratoire;botaniste;I6
+Produire un rapport sur l'évolution économique d'une région;I;laboratoire;industriels;I11
+Technicien/Technicienne en transformation des produits forestiers;I;laboratoire;industriels;I17
+Technicien/Technicienne en procédés métallurgiques (spécialiste dans la transformation des métaux);I;laboratoire;industriels;I25
+Economiste;I;laboratoire;industriels;I26
+Météorologiste;I;laboratoire;I22
+Technicien/Technicienne en dessin conception mécanique;I;laboratoire;I24
+Médecin ou vétérinaire;I;laboratoire;I29
+Concevoir un plan de reboisement;I;laboratoire;I7
+Concevoir un barrage électrique, un point, une autoroute, etc;I;laboratoire;I10
+Mon habilité à apprendre des nouveaux sujets avec facilité et avec aise;I;pratique;technologie;I31
+Ma capacité d'analyse;I;pratique;technologie;I35
+Mon habilité à solutionner des problèmes abstraits;I;pratique;calcul;I33
+Ma capacité à me concentrer sur une tâche abstraite;I;pratique;calcul;I34
+J'ai l'esprit inventif : il m'arrive souvent de trouver une solution originale et efficace à un problème;I;pratique;naturel;I46
+Je suis d'un naturel très curieux sur à peu près tout;I;pratique;naturel;I49
+Faire des recherches sur les civilisations anciennes;I;pratique;I12
+Ma capacité de synthèse;I;pratique;I38
+Mon talent à rédiger clairement un texte;I;pratique;I39
+Ma capacité à saisir et comprendre des directives rapidement;I;pratique;I40
+J'ai l'esprit critique et n'accepte pas facilement n'importe quelle idée;I;pratique;I41
+J'aime la précision dans tout ce que je fais;I;pratique;I44
+Je tiens à mon indépendance sur le plan des idées, du travail, etc;I;pratique;I47
+Avant toute décision, je réunis le maximum d'information possible;I;pratique;I48
+J'analyse les idées, les événements, ce qui se passe autour de moi;I;pratique;I50
+Faire de la programmation informatique;I;informatique;informatique;I15
+Technicien/Technicienne en informatique;I;informatique;informatique;I30
+Mes aptitudes en mathématiques;I;informatique;I32
+Les gens me considèrent comme une personne intellectuelle plutôt qu'émotive;I;psychologique;I42
+Je demeure réservé dans l'expression de mes opinions, de mes sentiments et de mes actes;I;psychologique;I43
+Dans mes activités scolaires ou autres, je me montre méthodique et rationnel/le;I;psychologique;I45
+Imaginer une bande dessinée;A;musicien;dessinateur;A1
+Graphiste;A;musicien;dessinateur;A25
+Jouer dans un orchestre;A;musicien;musicien;A14
+Musicien/Musicienne;A;musicien;musicien;A28
+Interpète;A;musicien;A23
+Chanteur/Chanteuse;A;musicien;A30
+Les lendemains ne m'inquiètent pas : je vis au jour le jour;A;musicien;A42
+Je suis porté/e à tout idéaliser et à chercher la perfection;A;musicien;A45
+Imaginer de nouvelles façons de faire les choses;A;intelligible;parole;A15
+Ma capacité à travailler par moi-même;A;intelligible;parole;A37
+J'ai besoin de beaucoup de liberté d'action dans tout ce que j'entreprends;A;intelligible;parole;A41
+Ecrivain/Ecrivaine;A;intelligible;ecrivain;A16
+Ecrire des romans, des articles de journaux;A;intelligible;ecrivain;A2
+Comédien/Comédienne;A;intelligible;comédien;A21
+Interpréter ou mettre en scène une pièce de théâtre;A;intelligible;comédien;A8
+Apprendre des langues;A;intelligible;A11
+Ma capacité d'inventer, de créer, de concevoir;A;intelligible;A35
+Ecrire des critiques de pièces de théâtre, de films, de livres, etc;A;intelligible;A3
+J'agis et je pense souvent de façon non conformiste, c'est-à-dire différemment des autres;A;intelligible;A44
+Dans mes travaux, je fais preuve d'originalité, d'imagination et d'intuition;A;intelligible;A48
+Faire de la photographie publicitaire ou artistique;A;minutieux;photographe;A12
+Photographe;A;minutieux;photographe;A24
+Peindre des tableaux pour une exposition;A;minutieux;architecte;A13
+Architecte;A;minutieux;architecte;A18
+Journaliste;A;minutieux;journaliste;A17
+Décorateur/Décoratrice d'intérieur;A;minutieux;journaliste;A20
+Embellir l'environnement;A;minutieux;journaliste;A6
+Créer des pièces d'artisanat;A;minutieux;A10
+Mes émotions sont généralement intenses;A;minutieux;A46
+Je suis d'un caractère impulsif;A;minutieux;A47
+Mes amis/es me considèrent compliqué/e;A;minutieux;A50
+Dessiner des meubles, des plans, des décors, etc;A;minutieux;A4
+Fleuriste;A;artiste;fleuriste;A19
+Concevoir et réaliser des arrangements de fleurs;A;artiste;fleuriste;A5
+Directeur/Directrice de publicité;A;artiste;création;A26
+Créer une nouvelle coupe de cheveux ou de nouveau vêtement;A;artiste;création;A9
+Mannequin;A;artiste;A22
+Professeur/e de dessin;A;artiste;A27
+Compositeur/Compositrice (musique);A;artiste;A29
+Mon habilité à observer les légères différences de forme ou de teinte;A;artiste;A40
+J'exprime mes sentiments par l'entremise de la musique, des beaux-arts, de la poésie, etc;A;artiste;A43
+Dans mes diverses activités, je manque souvent d'ordre;A;artiste;A49
+Décorer des vitrines de magasins;A;artiste;A7
+Mon aptitude dans les arts de la scène (théâtre, danse, musique, etc);A;pratique;A31
+Mon aptitude en arts plastiques (dessin, sculpture, peinture, etc);A;pratique;A32
+Ma capacité à apprendre des langues, y compris ma langue maternelle;A;pratique;A33
+Ma capacité à me représenter la forme d'objets en deux ou trois dimensions;A;pratique;A34
+Ma capacité à accepter la critique;A;pratique;A36
+Mon aptitude à exprimer concrètement mes idées créatrices dans le médium de mon choix (musique, écriture, danse, dessin, etc);A;pratique;A38
+Mon aptitude à tolérer l'insécurité (peur du lendemain);A;pratique;A39
+Aider les délinquants à se réhabiliter;S;scolaire;sociale;S1
+Travailleur/Travailleuse sociale;S;scolaire;sociale;S28
+Agent/Agente à l'aide sociale;S;scolaire;sociale;S29
+S'occuper des personnes handicapées physiquement;S;scolaire;malades;S12
+Soigner un malade;S;scolaire;malades;S13
+Technicien/Technicienne en loisirs;S;scolaire;technicien;S17
+Technicien/Technicienne en réadaptation physique;S;scolaire;technicien;S19
+Technicien/Technicienne policier/policière;S;scolaire;technicien;S30
+Technicien/Technicienne en hygiène dentaire;S;scolaire;infirmier;S20
+Médecin généraliste (de famille);S;scolaire;infirmier;S21
+Infirmier/Infirmière auxiliaire;S;scolaire;infirmier;S22
+Esthéticien/Esthéticienne;S;scolaire;infirmier;S23
+Offrir un service d'aide téléphonique;S;scolaire;services;S3
+Consulter les gens sur leurs besoins (sondage, enquête, etc);S;scolaire;services;S9
+Travailler dans une garderie d'enfants;S;scolaire;enfants;enfants;S4
+Technicien/Technicienne en garderie d'enfants;S;scolaire;enfants;enfants;S27
+Orthopédagogue (correction des troubles de l'apprentissage);S;scolaire;information;S25
+Tenir un kiosque d'informations;S;scolaire;information;S8
+Agir comme hôte/hôtesse lors d'un congrès;S;scolaire;S11
+Barmaid/Barman;S;scolaire;S18
+Directeur/Directrice du personnel;S;scolaire;S24
+Professeur/e à l'élémentaire;S;scolaire;S26
+S'engager dans des organismes sociaux ou communautaires;S;scolaire;S2
+Organiser des loisirs;S;jeunes;S14
+On me considère généreux/se;S;jeunes;S47
+Enseigner aux enfants, aux adolescents, aux adultes;S;jeunes;S5
+Animer un groupe;S;jeunes;S10
+Echanger des idées avec d'autres personnes;S;raisonnable;parole;S15
+Je sais me montrer souple, conciliant/e;S;raisonnable;parole;S45
+Quand un problème se pose, je préfère le régler par la discussion et l'entente avec les gens qui m'entourent;S;raisonnable;parole;S48
+Ma capacité à aider les autres, à les comprendre, à les écouter;S;raisonnable;lecteur;S31
+Ma capacité à être touché/e par les émotions des autres tout en demeurant objectif (empathie);S;raisonnable;lecteur;S32
+Mon aptitude à travailler en équipe;S;raisonnable;arbitre;S36
+Ma faculté de prévoir, de deviner (intuition);S;raisonnable;arbitre;S38
+Les gens me qualifient de sociable et sympathique;S;raisonnable;bienveillant;S43
+Mes amis/es me considèrent comme bienveillant et compréhensif/ve;S;raisonnable;bienveillant;S44
+Je suis d'un naturel serviable;S;raisonnable;protection;S49
+Généralement, les gens peuvent compter sur ma coopération;S;raisonnable;protection;S50
+J'accepte et j'assume les responsabilités;S;raisonnable;responsables;S46
+Aider les gens à prendre conscience de leurs possibilités;S;raisonnable;responsables;S6
+Mon sens de l'organisation;S;raisonnable;S37
+Ma capacité à communiquer avec les autres;S;raisonnable;S39
+Bibliothécaire;S;bibliothécaire;S16
+Rencontrer des gens pour les aider à résoudre leurs problèmes personnels;S;bibliothécaire;S7
+Ma capacité à expliquer les choses clairement;S;sensible;discussion;S34
+Ma capacité à diriger des interactions dans un groupe (animation);S;sensible;discussion;S35
+Ma capacité à réagir correctement devant les situations qui se présentent (équilibre émotionnel);S;sensible;S33
+Ma capacité à maintenir des relations suivies avec les gens;S;sensible;S40
+Dans l'action comme dans la façon de m'exprimer, je montre de la délicatesse;S;sensible;S41
+Dans la majorité des circonstances, je suis perspicace, clairvoyant/e;S;sensible;S42
+Mon talent pour vendre;E;marché;financier;E31
+Mon sens des affaires;E;marché;financier;E32
+Lancer un nouveau produit;E;marché;marché;E5
+Mettre sur pied son propre commerce;E;marché;marché;E8
+Vendre un produit ou une idée;E;marché;E1
+Propriétaire d'un commerce;E;marché;E20
+Lancer un concours de promotion, une campagne de publicité;E;marché;E2
+S'engager à fond dans des activités sociales au travail ou dans son quartier;E;financier;gestion;E14
+Fonder un club de consommateurs, une association de protection de l'environnement, une activité de récupération du papier;E;financier;gestion;E15
+Agent/Agente de bord;E;financier;agent;E19
+Chef de rayons de supermarché;E;financier;agent;E25
+Agent/Agente de publicité (marketing);E;financier;financier;publicité;E27
+Directeur/Directrice des ventes;E;financier;financier;publicité;E28
+Acheter pour le compte d'un grand magasin;E;financier;financier;acheteur;E3
+Acheteur/Acheteuse;E;financier;financier;acheteur;E26
+Agent/Agente de voyage;E;financier;financier;E23
+Courtier/Courtière en immeubles;E;financier;assurances;assurances;E24
+Vendeur/Vendeuse d'assurances;E;financier;assurances;assurances;E29
+Commis-vendeur/vendeuse;E;financier;assurances;E30
+Diriger une entreprise financière;E;financier;assurances;E9
+Technicien/Technicienne en tourisme;E;financier;E18
+Gérant/Gérante d'hôtel;E;financier;E21
+Marchander;E;financier;E4
+Directeur/Directrice d'une entreprise;E;professionnels;E22
+L'ambition ne m'effraie pas;E;professionnels;E47
+Diriger du personnel;E;professionnels;E6
+Faire de la sélection d'autres candidats;E;professionnels;E7
+Mon habilité à diriger, à mener les autres;E;pratique;engagements;E33
+Mon talent pour persuader les gens;E;pratique;engagements;E39
+Ma facilité à m'exprimer en public;E;pratique;protection;E35
+Ma capacité à prendre une décision seul/e;E;pratique;protection;E36
+Mon habilité à me faire valoir en société;E;pratique;clientèle;E37
+Ma capacité à demeurer enthousiaste et énergique même en situation difficile;E;pratique;clientèle;E40
+Mon aptitude à défendre une cause;E;pratique;E34
+Ma capacité à être le/la premier/ère à proposer ou à faire quelque chose;E;pratique;E38
+Même dans des situations critiques ou tendues, je sais prendre l'initiative nécessaire;E;pratique;E41
+L'aventure m'attire beaucoup;E;pratique;E44
+Je suis sociable et populaire, je parle à tout le monde;E;pratique;E45
+Je suis un/e optimiste né/e;E;pratique;E46
+Donner des conférences;E;pratique;E10
+Gérer un projet spécial;E;responsable;responsable;E11
+J'aime être responsable d'activités;E;responsable;responsable;E49
+Défendre une cause;E;responsable;E13
+Je défends toujours mes opinions;E;responsable;E48
+Faire de la politique (municipal, scolaire, provincial);E;avocat;politicien;E12
+Politicien/Politicienne;E;avocat;politicien;E17
+Avocat/Avocate;E;avocat;E16
+Généralement, je suis sûr/e de moi;E;avocat;E43
+Mes impulsions me dictent souvent ma conduite;E;judicieux;E42
+Il m'arrive souvent de me montrer autoritaire;E;judicieux;E50
+Etablir des comptes-rendus des dépenses;C;comptable;financiers;financiers;C1
+Vérifier des rapports financiers;C;comptable;financiers;financiers;C4
+Technicien/Technicienne en finance (comptabilité);C;comptable;financiers;comptable;C29
+Commis-comptable;C;comptable;financiers;comptable;C30
+Expert/Experte en impôt;C;comptable;financiers;C28
+Tenir une caisse dans un établissement commercial ou financier;C;comptable;judiciaire;C2
+Commis au service de la paie;C;comptable;judiciaire;C26
+Recevoir et faire des appels téléphoniques;C;comptable;judiciaire;C9
+Préparer des procès verbaux de réunions;C;comptable;judiciaire;C10
+Dactylographier ou réviser des lettres ou des rapports;C;comptable;comptable;banque;C11
+Caissier/Caissière de banque;C;comptable;comptable;banque;C27
+Commis de bureau;C;comptable;comptable;comptable;C17
+Technicien/Technicienne judiciaire (aux greffes);C;comptable;comptable;comptable;C19
+Sténo-dactylo;C;comptable;comptable;comptable;C20
+Gérant/Gérante du service de crédits;C;comptable;comptable;comptable;C25
+Secrétaire de service juridique, médical;C;comptable;comptable;médicale;C18
+Archiviste médical;C;comptable;comptable;médicale;C24
+Réceptionniste;C;comptable;comptable;C21
+Commis aux renseignements;C;comptable;comptable;C23
+D’une journée à l’autre, j’aime exécuter des tâches semblables;C;comptable;C43
+Opérateur/Opératrice en informatique;C;informatique;informatique;C16
+Faire des opérations mathématiques pour préparer des rapports ou faire la tenue de livres;C;informatique;informatique;C3
+Faire fonctionner toutes sortes de machines de bureau;C;informatique;C13
+Je suis timide et je préfère garder pour moi mes sentiments, mes émotions et mes idées;C;informatique;C42
+Bibliotechnicien/Bibliotechnicienne;C;scientifiques;restauration;C22
+Faire un inventaire et passer des commandes;C;scientifiques;restauration;C5
+Maintenir un système de classement (archive, bibliothèque, bureau, etc);C;scientifiques;C6
+Classer des lettres, des rapports, des dossiers;C;scientifiques;C8
+Manipuler un appareil à traitement de textes;C;scientifiques;C12
+Mon aptitude en français;C;pratique;consciencieux;C37
+Dans mes travaux, je suis persistant/e et consciencieux/se;C;pratique;consciencieux;C48
+Mon aptitude à travailler avec précision;C;pratique;C36
+Ma capacité à observer les détails;C;pratique;C38
+Ma capacité à comprendre et à exécuter des instructions;C;pratique;C40
+Je travaille avec beaucoup de soin;C;pratique;C44
+J’agis méthodiquement dans tout ce que je fais;C;pratique;C45
+Je suis maître de moi, d’un calme exemplaire;C;pratique;C50
+Garder mon espace de travail à l’ordre;C;pratique;C7
+S’adonner à des activités régulières;C;rigoureuses;correcteurs;C14
+Effectuer des tâches clairement définies;C;rigoureuses;correcteurs;C15
+J’aime recevoir des instructions bien claires qui me permettent de savoir exactement ce qu’on attend de moi;C;rigoureuses;lecteur;C41
+Je m’efforce de me montrer compétent dans ce qu’on exige de moi;C;rigoureuses;lecteur;C47
+L’esprit concret et pratique me guide;C;rigoureuses;C46
+J’obéis facilement aux règlements et aux ordres;C;rigoureuses;C49
+Mon aptitude à travailler avec les chiffres;C;raisonnables;C31
+Ma capacité à disposer les choses selon le rang, la place qui leur convient;C;raisonnables;C32
+Ma capacité à tenir des dossiers et des registres à jour;C;raisonnables;C33
+Mon aptitude à comprendre les structures administratives;C;raisonnables;C34
+Ma capacité à me conformer aux règles établies;C;raisonnables;C35
+Ma capacité à m’adapter à un travail routinier;C;raisonnables;C39
